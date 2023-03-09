@@ -9,11 +9,6 @@ former editor-in-chief of the Journal of Educational and Behavioral Statistics, 
 of the American Statistical Association, fellow of the Institute of Mathematical Statistics, 
 and corresponding member of the Royal Netherlands Academy of Sciences.
 
-Jan currently produces works from his home in Massachusetts, along with robust animal and plant cohorts,
-and his partner Nicole Francus de Leeuw (m. 2012), a linguist, semiotician, and educator theorizing 
-Universal Grammar, who will also facilitate his legacy.
-
-
 Interests: 
 
 * Computational Statistics

@@ -7,7 +7,7 @@ of the Psychometric Society, founding and long-time editor-in-chief of the Journ
 Statistical Software, long-time editor-in-chief of the Journal of Multivariate Analysis, 
 former editor-in-chief of the Journal of Educational and Behavioral Statistics, fellow 
 of the American Statistical Association, fellow of the Institute of Mathematical Statistics, 
-and corresponding member of the Royal Netherlands Academy of Sciences.
+and member of the Royal Netherlands Academy of Sciences.
 
 Interests: 
 

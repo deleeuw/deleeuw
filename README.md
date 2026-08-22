@@ -18,4 +18,4 @@ Interests:
 * R/C Programming
 * Open Source / Open Access
 
-Reach me at jan@deleeuwpdx.net
+Reach me at deleeuw@ucla.edu

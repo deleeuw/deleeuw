@@ -18,4 +18,6 @@ Interests:
 * R/C Programming
 * Open Source / Open Access
 
-Reach me at deleeuw@ucla.edu
+Reach me at deleeuw@ucla.edu. Download my books, published and unpublished papers, reports, presentations,
+and package manuals from https://deleeuw.github.io/docs.
+ 
